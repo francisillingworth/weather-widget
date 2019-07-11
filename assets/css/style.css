@@ -1,0 +1,69 @@
+body{
+    background-color: #b2d9ea82
+}
+.jumbotron{
+    margin-bottom:0;
+    color:white;
+    background-color:#84B4C8;
+}
+
+.title{
+    font-size:50px; font-weight:600;
+}
+
+.main{
+    height:950px;
+}
+
+.subTitle{
+    margin-bottom:20px;
+    margin-top:20px;
+}
+
+.text-primary{
+    color:#8a8989; 
+}
+
+.btn-primary{
+    background-color: #83c0f5;
+    border-color: #83c0f5;
+}
+
+.footerText{
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    margin-top:10px
+}
+
+#rowDiv{
+    margin:auto;
+    text-align: center;
+    width:60%;
+}
+
+input[type="text"]{
+    height: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#submitWeather{
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#show{
+    margin:auto;
+    width:60%
+}
+
+.footer{
+    background-color: #84B4C8;
+    width: 100%;
+    height:50px;
+    margin-top: 10px;
+    bottom: 0;
+}
