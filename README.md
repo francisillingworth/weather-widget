@@ -17,19 +17,19 @@ The appliction is responsive and will respond to changes in browser window size.
 
 ## Technologies
 
-1)HTML5
-2)CSS3
-3)Bootstrap v.4.3.1
-4)Javascript
-5)Jquery
+1. HTML5
+2. CSS3
+3. Bootstrap v.4.3.1
+4. Javascript
+5. Jquery
 
 
 ## Features
 
 The site features:
 
-1 - The bootstrap grid system layout.
-2 - OpenWeatherMap API taken from https://openweathermap.org/
+1. The bootstrap grid system layout.
+2. OpenWeatherMap API taken from https://openweathermap.org/
 
 
 ## Deployment
